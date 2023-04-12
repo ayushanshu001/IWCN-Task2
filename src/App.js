@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { Input, Table, TableContainer, Tbody, Td, Th, Thead, Tr } from '@chakra-ui/react';
+import { Input, Table, TableContainer, Tbody, Td, Th, Thead, Tr } from '@chakra-ui/react'
 
 function App() {
   const data = [
